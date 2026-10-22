@@ -4,11 +4,11 @@ Projeto front-end inicial com Vite e uma pipeline de CI/CD no GitHub Actions.
 
 ## Site publicado
 
-Após publicar este repositório no GitHub e ativar o GitHub Pages, o site ficará disponível em:
+O endereço do site é:
 
-`https://<SEU_USUARIO>.github.io/<NOME_DO_REPOSITORIO>/`
+[https://brenribeiro.github.io/meu-projeto/](https://brenribeiro.github.io/meu-projeto/)
 
-Substitua os campos pelo usuário e nome do repositório. O endereço também aparece no ambiente `github-pages` de uma execução bem-sucedida do workflow.
+Para que o endereço fique disponível, acesse **Settings → Pages** no repositório e escolha **GitHub Actions** como origem. O endereço também aparece no ambiente `github-pages` após um deploy bem-sucedido.
 
 ## Pipeline
 
